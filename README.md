@@ -11,7 +11,7 @@ I mix modern web tech with practical AI to build fast, scalable products.
 Clean code, real users, zero buzzword abuse.
 
 * 🌍  I'm based in Islamabad, Pakistan
-* 🖥️  See my portfolio at [ ]([http://myportfolio.com](https://shayan-mehmood.github.io/))
+* 🖥️ See my portfolio at [shayan-mehmood.github.io](https://shayan-mehmood.github.io/)
 * ✉️  You can contact me at [shayanshehzad12@gmail.com](mailto:shayanshehzad12@gmail.com)
 * 🚀  I'm currently working on [Mini Lessons Academy](http://(s)://app.minilessonsacademy.com/)
 * 🧠  I'm currently learning Advanced system design for web platforms Modern frameworks & tooling around scalability and performance Improving developer experience (DX) in full-stack applications
